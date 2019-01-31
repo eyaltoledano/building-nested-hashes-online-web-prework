@@ -36,6 +36,6 @@ def fourth_challenge
    }
 }
 
-
+hero_family = epic_tragedy[:montague]
 
 end
