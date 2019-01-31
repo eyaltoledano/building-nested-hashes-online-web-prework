@@ -37,5 +37,11 @@ def fourth_challenge
 }
 
 hero_family = epic_tragedy[:montague]
+romeo = hero_family[:hero]
+romeo[:status] = "dead"
+
+heroine_family = epic_tragedy[:capulet]
+juliet = heroine_family[:heroine]
+juliet[:status] = "dead"
 
 end
